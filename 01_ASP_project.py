@@ -1,1 +1,1 @@
-print("kill all man")
+print("project")
